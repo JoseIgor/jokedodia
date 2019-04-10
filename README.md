@@ -1,2 +1,2 @@
 # jokedodia
-This is the repository of the url (jokedodia.com) a funny website with brasilian short jokes. 
+This is the repository of the jokedodia.com a funny website with brasilian short jokes. 
